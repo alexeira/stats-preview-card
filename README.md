@@ -4,9 +4,12 @@
 
 ## Welcome! 👋
 
-This is a solution to the **Stats preview card component challenge on Frontend Mentor**
+This is a solution to the **Stats preview card component challenge on Frontend Mentor**.
+
 I didn't do any challenges yesterday (Sunday) 😔, but that day was made to rest so I forgive myself.
+
 For this solution I only used **HTML** and **CSS**.
+
 I have tried as much as possible to make the result as similar as possible.
 
 ## Screenshots 🤨📷
